@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scooterhire.js",
+  "dependencies": {
+    "jest": "^28.0.3",
+    "nanoid": "^3.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest",
+    "test:report":"jest --coverage=true"
+  },
+  "author": "",
+  "license": "ISC"
+}
