@@ -9,3 +9,4 @@ describe('Tests for User class', () => {
     })
     
 })
+
