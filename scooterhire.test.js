@@ -10,3 +10,10 @@ describe('Tests for User class', () => {
     
 })
 
+// describe('Customer class functions,', ()=>{
+//     test('user rents scooter',() => {
+//     const harry = new Customer(19,1000)
+//     const scooter = new Scooter()
+//         expect(harry.rentScooter())
+//     })
+// })
